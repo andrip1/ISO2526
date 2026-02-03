@@ -1,12 +1,6 @@
 #
 #
-# realizar un script denominado mitades el primer parametro es el nombre de 
-# un directorio que tiene que existir hacer control de numero de parametros 
-# de entrada el programa avisa y termina si no es 1 si el directorio no 
-# existe, si no es un directorio,y si el directorio no tiene ningún fichero
-# que comience por letra mayuscula para cada fichero del directorio 
-# que comience por una letra mayuscula se generará otro fichero del mismo nombre
-# con extension .swap 
+# Andrés Ballester
 
 while true; do 
 echo "MENÚ"
